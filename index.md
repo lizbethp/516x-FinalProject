@@ -1,5 +1,12 @@
 ## Introduction
-![Tractor](https://user-images.githubusercontent.com/86243647/144933593-61463560-618b-400c-84d3-cf2b2e16b8d9.PNG)
+If we treat agriculture as a system, we can think about inputs and outputs. Even within the scope of crop production, there can be several outputs, but in this case, we will focus on yield. The input side can be summarized in 3 major categories: seed genetics, machinery interaction, and environmental factors. Depending on these inputs and how they interact, it can result in different yields.
+
+## Data Analysis Questions
+## Project Workflow
+## Code
+## Results 
+## Assignment 
+
 
 You can use the [editor on GitHub](https://github.com/lizbethp/516x-FinalProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
