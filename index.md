@@ -1,4 +1,5 @@
 ## Introduction
+![Tractor](https://user-images.githubusercontent.com/86243647/144933593-61463560-618b-400c-84d3-cf2b2e16b8d9.PNG)
 
 You can use the [editor on GitHub](https://github.com/lizbethp/516x-FinalProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
