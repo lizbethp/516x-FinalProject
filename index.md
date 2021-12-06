@@ -1,5 +1,6 @@
 ## Introduction
 If we treat agriculture as a system, we can think about inputs and outputs. Even within the scope of crop production, there can be several outputs, but in this case, we will focus on yield. The input side can be summarized in 3 major categories: seed genetics, machinery interaction, and environmental factors. Depending on these inputs and how they interact, it can result in different yields.
+![Tractor](https://user-images.githubusercontent.com/86243647/144935965-e6404d9b-e0fc-4229-87d5-c028a6e7d67f.PNG)
 
 
 
