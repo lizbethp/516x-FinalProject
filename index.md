@@ -1,4 +1,4 @@
-## Digital Acre
+## Introduction
 
 You can use the [editor on GitHub](https://github.com/lizbethp/516x-FinalProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
