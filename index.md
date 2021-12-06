@@ -1,8 +1,10 @@
 ## Introduction
 If we treat agriculture as a system, we can think about inputs and outputs. Even within the scope of crop production, there can be several outputs, but in this case, we will focus on yield. 
 ![System](https://user-images.githubusercontent.com/86243647/144937676-59044697-3ea8-47fe-9649-e4b22c0bb1f4.PNG)
-The input side can be summarized in 3 major categories: seed genetics, machinery interaction, and environmental factors. Depending on these inputs and how they interact, it can result in different yields.
-
+The input side can be summarized in 3 major categories: seed genetics, machinery interaction, and environmental factors. Depending on these inputs and how they interact, it can result in different yields. To optimize the system, we can manage macro-level practices that can affect the overall performance of a crop. For example, by implementing the right irrigation system for a specific crop in a set environment, we can positively shift the yield and, as a result, optimize the system. However, even then, there are still plant-to-plant variations that affect the overall performance of the crop.
+![Corn_variation](https://user-images.githubusercontent.com/86243647/144938004-15d30df9-0861-4d69-8091-8b7febb15185.PNG)
+ By studying and understanding these variations, we could precisely tweak each plant's inputs and increase the yield by moving those low-yielding plants to a higher yield.
+ 
 
 
 
